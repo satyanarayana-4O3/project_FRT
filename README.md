@@ -7,7 +7,7 @@ This is a web based application developed for good looking, health and grooming 
 ### This web based health based men's salon beauty application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 project link--------->>>https://agreeable-moss-0eb772a00.3.azurestaticapps.net
-project demo video----->>>
+project demo video----->>>https://youtu.be/tbbHKJzLWFQ
 AZURE TECHNOLOGIES USED FOR PROJECT
 @ Static web apps 
 @ health bot
